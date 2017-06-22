@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: compra_venta
+        psr4_prefix: compra_venta
+        src_path: app
